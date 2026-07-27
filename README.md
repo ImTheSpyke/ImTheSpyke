@@ -105,8 +105,9 @@ Most of these projects are private, but they are built with real broadcasts and 
 # 📊 Coding Activity
 Powered by https://codetime.dev/
 
-[![CodeTime Badge](https://shields.jannchie.com/endpoint?style=flat&color=0284c7&url=https%3A%2F%2Fcodetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D31053)](https://codetime.dev)
+[![CodeTime Badge](https://shields.jannchie.com/endpoint?style=flat&color=0284c7&url=https%3A%2F%2Fcodetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D31053)](https://codetime.dev)  
 [![CodeTime Badge](https://shields.jannchie.com/endpoint?style=flat&color=0284c7&url=https%3A%2F%2Fcodetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D31053%26minutes%3D525600)](https://codetime.dev)  
+[![CodeTime Badge](https://shields.jannchie.com/endpoint?style=flat&color=0284c7&url=https%3A%2F%2Fcodetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D31053%26minutes%3D43200)](https://codetime.dev)  
 [![CodeTime Languages](https://codetime.dev/api/widgets/donut.svg?uid=31053&days=0&limit=6&theme=dark)](https://codetime.dev)
 [![CodeTime Trend](https://codetime.dev/api/widgets/trend.svg?uid=31053&days=90&theme=dark)](https://codetime.dev)
 
