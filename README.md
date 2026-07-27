@@ -1,7 +1,7 @@
 [![CodeTime Status](https://codetime.dev/api/widgets/status.svg?uid=31053&theme=dark&style=minimal)](https://codetime.dev)
 # 👋 Hi, I'm ImTheSpyke!
 
-<img width="128" height="128" alt="ImTheSpyke avatar" src="YOUR_GITHUB_AVATAR_URL" />
+<img width="100" height="100" alt="SpykeLogo" src="https://github.com/user-attachments/assets/fa1799f5-38d4-40af-982d-90d8495d207e" />
 
 🇫🇷 French Esports Tools Developer & Full Stack Developer specialized in live production.
 
@@ -108,7 +108,11 @@ Powered by https://codetime.dev/
 [![CodeTime Badge](https://shields.jannchie.com/endpoint?style=flat&color=0284c7&url=https%3A%2F%2Fcodetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D31053)](https://codetime.dev)
 [![CodeTime Badge](https://shields.jannchie.com/endpoint?style=flat&color=0284c7&url=https%3A%2F%2Fcodetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D31053%26minutes%3D525600)](https://codetime.dev)  
 [![CodeTime Languages](https://codetime.dev/api/widgets/donut.svg?uid=31053&days=0&limit=6&theme=dark)](https://codetime.dev)
+[![CodeTime Trend](https://codetime.dev/api/widgets/trend.svg?uid=31053&days=90&theme=dark)](https://codetime.dev)
+
+
 [![CodeTime Activity Calendar](https://codetime.dev/api/widgets/calendar.svg?uid=31053&theme=light)](https://codetime.dev)
+
 ---
 
 # 🌐 Find Me Online
