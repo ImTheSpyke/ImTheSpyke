@@ -1,5 +1,5 @@
 [![CodeTime Status](https://codetime.dev/api/widgets/status.svg?uid=31053&theme=dark&style=minimal)](https://codetime.dev)
-# 👋 Hi, I'm ImTheSpyke!
+# 👋 Hi, I'm The .Spyke!
 
 <img width="100" height="100" alt="SpykeLogo" src="https://github.com/user-attachments/assets/fa1799f5-38d4-40af-982d-90d8495d207e" />
 
