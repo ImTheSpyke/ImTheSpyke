@@ -121,7 +121,7 @@ Powered by https://codetime.dev/
 🌍 Website: https://imthespyke.fr  
 📚 Esports: Resources: https://broadcast-center.imthespyke.fr/  
 ☕ Support: [Buy Me a Coffee](https://buymeacoffee.com/imthespyke)  
-🐦 Twitter/X https://x.com/imthespyke  
+🐦 Twitter/X: https://x.com/imthespyke  
 💼 LinkedIn: https://www.linkedin.com/in/quentin-vidal-9ba3982a2/  
 🎮 Twitch: https://www.twitch.tv/imthespyke  
 ▶️ YouTube: https://www.youtube.com/@ImTheSpyke   
